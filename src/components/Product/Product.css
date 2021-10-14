@@ -1,0 +1,16 @@
+.product{
+    display:flex;
+    border-bottom: 1px solid lightgrey;
+   margin:10px;
+}
+.product-name{
+color:rgb(66, 66, 179);
+font-weight: 400;
+}
+.product-price{
+    color: rgb(224, 156, 28);
+    font-weight: 400;
+}
+.product-img{
+    margin-right: 22px;
+}

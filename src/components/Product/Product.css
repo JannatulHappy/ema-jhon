@@ -25,3 +25,7 @@ font-weight: 400;
    margin-bottom: 10px;
    cursor: pointer;
 }
+.fa-star{
+    color:goldenrod;
+    margin-bottom: 10px;
+}

@@ -5,7 +5,8 @@
 }
 .product-name{
 color:rgb(66, 66, 179);
-font-weight: 400;
+font-weight: 500;
+font-size: 20px;
 }
 .product-price{
     color: rgb(224, 156, 28);
